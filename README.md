@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chris-0317
+- 👋 Hi, I’m @Krish Gupta
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning pragraming languages and cybersecurity
 - 💞️ I’m looking to collaborate on information gathering and password cracking
