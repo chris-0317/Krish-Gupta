@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krish Gupta
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning pragraming languages and cybersecurity
-- 💞️ I’m looking to collaborate on information gathering and password cracking
+- 💞️ I’m looking to collaborate on networking ,information gathering , penetration testing and password cracking
 - 📫 How to reach me kg646233@gmail.com
 
 <!---
